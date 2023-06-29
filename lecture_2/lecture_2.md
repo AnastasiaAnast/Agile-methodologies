@@ -242,3 +242,10 @@ _Полезные материалы:_
 - В чём секрет популярности и эффективности методологии Agile (https://blog.ganttpro.com/ru/metodologiya-agile-methodology/)
 - Как у российских компаний обстоят дела с внедрением Agile: масштабное исследование 2020 года (https://rb.ru/opinion/agile-practices-russia/)
 - О Unit-тестах замолвите слово. Часть 1 (https://infostart.ru/1c/articles/1056335/)
+
+_Полезные материалы (семинар):_
+
+- Будь гибким: как понять Scrum и создать agile-команду (https://skillbox.ru/media/management/kak_ponyat_scrum/)
+- Как выбрать длину спринта для scrum-команды? (https://dzen.ru/media/id/5b86398716027100aaeb711f/kak-vybrat-dlinu-sprinta-dlia-scrumkomandy-607e924b1f98d874457a1b0b)
+- 12 методологий разработки ПО (https://gb.ru/posts/methodologies)
+- Методологии разработки ПО: Agile (https://gb.ru/posts/methodologies_agile)

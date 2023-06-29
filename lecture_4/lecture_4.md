@@ -263,3 +263,10 @@ _Полезные материалы:_
 - Сигео Синго «Изучение производственной системы Тойоты с точки зрения организации производства»
 - What is lean manufacturing? (https://www.techtarget.com/searcherp/definition/lean-production)
 - What Is Lean Manufacturing? — ProjectManager (https://www.projectmanager.com/blog/what-is-lean-manufacturing)
+
+_Полезные материалы (семинар):_
+
+- Гайд по Value Stream Mapping (VSM): выгоды, процедуры, ценность - Digital Enterprise (https://cleverics.ru/digital/2019/11/gajd-po-value-stream-mapping-vsm-vygody-procedury-cennost/)
+- Value Stream Mapping: поток ценности во плоти - Блог системы управления проектами Worksection (https://worksection.com/blog/value-stream-mapping.html)
+- Lean Software Development: lean методология - GeekBrains (https://gb.ru/posts/howto_lean_development)
+- VP Online - Online Drawing Tool (https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ValueStreamMapping&width=11&height=8.5&unit=inch)

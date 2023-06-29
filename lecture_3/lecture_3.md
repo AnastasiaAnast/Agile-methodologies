@@ -460,3 +460,10 @@ _Полезные материалы:_
 - Основы Scrum – Scrum Guide на русском (http://scrum-time.com/infobase/)
 - SCRUM: Понимание и применение фреймворка (https://habr.com/ru/companies/otr/articles/553670/)
 - Руководство по скраму (Scrum) — К. Швабер и Дж. Сазерленд (https://analytics.infozone.pro/scrum-guide-schwaber-and-sutherland/)
+
+_Полезные материалы (семинар):_
+
+- Завершение спринта в Scrum - демо и ретро - Карьера на vc.ru (https://vc.ru/hr/98403-zavershenie-sprinta-v-scrum-demo-i-retro)
+- SCRUM - метод управления проектами. Обучающий мультик для вас и ваших сотрудников! (https://www.youtube.com/watch?v=BHhr1aMgKPk&ab_channel=MercatorInfogr)
+- Мини-справочник и руководство по Scrum (https://habr.com/ru/articles/464861/)
+- Scrum и Kanban: как джунам не запутаться в процессах и терминах (https://habr.com/ru/articles/675202/)
